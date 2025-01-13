@@ -11,7 +11,7 @@ amazon_review_analysis/
 ├── data/
 │   ├── Reviews.csv                # Raw dataset (not uploaded to GitHub)
 │   ├── processed_reviews.csv      # Preprocessed dataset (generated locally)
-│   ├── test_data.zip      # Testing dataset (generated locally)
+│   ├── test_data.zip              # Testing dataset (generated locally)
 
 ├── scripts/
 │   ├── PreprocessReviews.py       # Script to preprocess the raw dataset
